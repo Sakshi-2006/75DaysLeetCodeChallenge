@@ -6,21 +6,25 @@ track
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
