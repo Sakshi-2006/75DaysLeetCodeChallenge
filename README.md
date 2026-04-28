@@ -18,6 +18,7 @@ track
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ track
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -43,6 +45,7 @@ track
 | ------- |
 | [0015-3sum](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -61,6 +64,7 @@ track
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -73,6 +77,7 @@ track
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
