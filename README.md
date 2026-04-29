@@ -11,6 +11,7 @@ track
 | [0015-3sum](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@ track
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -153,6 +155,7 @@ track
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
