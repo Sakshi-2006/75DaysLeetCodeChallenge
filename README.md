@@ -41,6 +41,7 @@ track
 | [0875-koko-eating-bananas](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ track
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -328,4 +330,8 @@ track
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
