@@ -106,6 +106,7 @@ track
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -352,6 +353,7 @@ track
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 ## Union-Find
 |  |
 | ------- |
