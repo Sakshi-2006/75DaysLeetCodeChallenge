@@ -109,6 +109,7 @@ track
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -359,6 +360,7 @@ track
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sakshi-2006/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
